@@ -1,0 +1,14 @@
+{
+  "name": "Calendario PRO",
+  "short_name": "Citas",
+  "description": "Aplicación de gestión de citas",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f0f0f",
+  "theme_color": "#FFD700",
+  "orientation": "portrait",
+  "icons": [
+    {"src": "https://i.postimg.cc/8P8Mn8Zp/logo-png.png","sizes": "192x192","type": "image/png"},
+    {"src": "https://i.postimg.cc/8P8Mn8Zp/logo-png.png","sizes": "512x512","type": "image/png"}
+  ]
+}
